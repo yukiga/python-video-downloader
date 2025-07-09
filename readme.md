@@ -1,4 +1,4 @@
-# Descarga todo tipo de vídeos (YouTube 8K, 4K, 1080p, 720p / Shorts / MP3 / TikTok / Reels Instagram / Reddit / X | Twitter / Etc.) – Solo para Windows
+# Descarga todo tipo de videos (YouTube 8K, 4K, 1080p, 720p / Shorts / MP3 / TikTok / Reels Instagram / Reddit / X | Twitter / Etc.) – Solo para Windows
 
 Este proyecto permite descargar videos desde múltiples páginas compatibles usando Python, `yt-dlp` y `FFmpeg`. Instalar FFmpeg es muy fácil: más abajo tienes un tutorial en video y un paso a paso escrito.
 
